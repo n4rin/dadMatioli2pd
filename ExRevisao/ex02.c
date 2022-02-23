@@ -3,6 +3,9 @@
 
 int main()
 {
-    printf("Hello world111!\n");
+    int a = 0;
+    while (a < 5) {
+        printf("ola aline");
+    }
     return 0;
 }
